@@ -22,4 +22,4 @@
         </plugins>
     </build>
 ```
-* two tests added for unregistered users
+* two tests for unregistered users added
